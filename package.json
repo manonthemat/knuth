@@ -18,9 +18,7 @@
     "yates"
   ],
   "author": "",
-  "license": {
-    "url": "https://raw.githubusercontent.com/manonthemat/knuth/master/LICENSE"
-  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/manonthemat/knuth/issues"
   },
